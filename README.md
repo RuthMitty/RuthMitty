@@ -1,17 +1,16 @@
-### Hi there 👋 I'm Thomas George Thomas,
+### Hi there 👋 I'm Ruth Sánchez,
 
-A data engineer passionate about Data Science :bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
+### About me
+I´m a software engineer student. I am passionate about the universe 🌠 and I love traveling around Mexico little towns.
 
-
-- ⚡ *Fun fact:* I believe in the Chaos theory: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
-- 🔭 I’m currently working on:
-	- Linear regression on Health data
-	- Twitter Sentimental Analysis using NLP and clustering
-- :bulb: I'm interested in all things data: *Big Data, Cloud, Machine Learning and Data Science*
-- 💬 Talk to me about Formula 1 :racing_car:, Memes, anything that interests you.
-- 🌱 I’m currently pursuing *Machine learning*.
+- *Fun fact:* I dont know a lot about computers despite my career, I chose my career only six months ago-
+- My hobbies: I play videogames from time to time, and like watching horror movies with good plots.
+- 💬 Talk to me about anything you´re passionate about, I enjoy discovering new things
+- 🌱 I’m currently pursuing a bachelor´s degree.
 
 ### My skills include
+
+//https://img.shields.io/badge/-Python-0D1117?style=rounded-square&logo=python&logoColor=yellow
 
 <p align="center">
 	<img title="Hadoop" alt="Hadoop" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/hadoop.svg" width="70" height="40" />
