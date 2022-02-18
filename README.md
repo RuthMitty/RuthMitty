@@ -10,7 +10,7 @@ I´m a software engineer student. I am passionate about the universe 🌠 and I 
 
 ### My skills include
 
-//https://img.shields.io/badge/-Python-0D1117?style=rounded-square&logo=python&logoColor=yellow
+
 
 <p align="center">
 	<img title="Hadoop" alt="Hadoop" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/hadoop.svg" width="70" height="40" />
