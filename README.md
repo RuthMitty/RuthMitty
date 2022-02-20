@@ -1,6 +1,7 @@
-### Hi there 👋 I'm Ruth Martínez,
+### Hi there 🦋 I'm Ruth Martínez,
 
-A data engineer passionate about Data Science :bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
+I’m a software engineer student 👩‍💻 only a freshman so I’m trying to learn everything I’m able to 💻. I love to experience new things so I`m always up for traveling 🏞️
+ 
 
 
 - ⚡ *Fun fact:* I believe in the Chaos theory: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
