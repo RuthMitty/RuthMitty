@@ -5,11 +5,9 @@ I’m a software engineer student 👩‍💻 only a freshman so I’m trying to
 
 
 -  *Fun fact* I took me almost two years and many tries to complete Ocarina of Time, but It was worth it 🕹️
-- 🔭 I’m currently working on:
-	- Linear regression on Health data
-	- Twitter Sentimental Analysis using NLP and clustering
-- :bulb: I'm interested in all things data: *Big Data, Cloud, Machine Learning and Data Science*
-- 💬 Talk to me about Formula 1 :racing_car:, Memes, anything that interests you.
+- The Secret Life of Waltter Mitty 💼✈️
+ and Interestellar 🌌
+ are life changing movies for me
 - 🌱 I’m currently pursuing *Machine learning*.
 
 ### My skills include
