@@ -8,7 +8,7 @@ I’m a software engineer student 👩‍💻 only a freshman so I’m trying to
 - The Secret Life of Waltter Mitty 💼✈️
  and Interestellar 🌌
  are life changing movies for me
-- 🌱 I’m currently pursuing *Machine learning*.
+- 🌱 I’m currently learning *C# and git*.
 
 ### My skills include
 
