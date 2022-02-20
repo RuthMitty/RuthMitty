@@ -4,7 +4,7 @@ I’m a software engineer student 👩‍💻 only a freshman so I’m trying to
  
 
 
-- ⚡ *Fun fact:* I believe in the Chaos theory: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
+-  *Fun fact* I took me almost two years and many tries to complete Ocarina of Time, but It was worth it 🕹️
 - 🔭 I’m currently working on:
 	- Linear regression on Health data
 	- Twitter Sentimental Analysis using NLP and clustering
