@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ### Hi there 👋 I'm Ruth Sánchez,
+=======
+### Hi there 👋 I'm Ruth Martínez,
+>>>>>>> fe30fa3 (Added name)
 
 ### About me
 I´m a software engineer student. I am passionate about the universe 🌠 and I love traveling around Mexico little towns.
