@@ -33,12 +33,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+    
+*Any courses or resources that might be helpful on my learning path are appreciated 🚀*
 
-### My Recent post on Medium!
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thomas_george_thomas/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thomas_george_thomas/0" alt="Recent Article on medium"></img></a>   
-    
-    
-*If you find my work good, consider giving it a :star: or fork-ing to show some :heart:. It helps me stay on track and be motivated.*
 <hr>
 <p align="center">
    <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
