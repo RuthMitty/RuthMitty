@@ -45,6 +45,7 @@ Here are some ideas to get you started:
    <br>
    <i>― David Mitchell, Cloud Atlas</i>
    <br>
+</p>
 <br>	
 
 <p align="center">
