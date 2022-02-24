@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ### Hi there 🦋 I'm Ruth Martínez,
 
 I’m a software engineer student 👩‍💻 only a freshman so I’m trying to learn everything I’m able to 💻. I love to experience new things so I`m always up for traveling 🏞️
