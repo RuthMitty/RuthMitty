@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 *Any courses or resources that might be helpful on my learning path are appreciated 🚀*
 
 <hr>
-<p align="center">
-   <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
+<p align="center"> <p style=" :blue; ">
+   <i>“I understand now that boundaries between noise and sound are conventions. All boundaries are conventions, waiting to be transcended. One may transcend any convention if only one can first conceive of doing so.” </i>
    <br>
-   <i>You miss 100% of the shots you don't take.</i>
+   <i>― David Mitchell, Cloud Atlas</i>
    <br>
 <br>	
 
