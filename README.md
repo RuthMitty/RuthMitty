@@ -1,33 +1,24 @@
 <<<<<<< HEAD
-### Hi there 👋 I'm Ruth Sánchez,
-=======
-### Hi there 👋 I'm Ruth Martínez,
->>>>>>> fe30fa3 (Added name)
+### Hi there 🦋 I'm Ruth Martínez,
 
-### About me
-I´m a software engineer student. I am passionate about the universe 🌠 and I love traveling around Mexico little towns.
+I’m a software engineer student 👩‍💻 only a freshman so I’m trying to learn everything I’m able to 💻. I love to experience new things so I`m always up for traveling 🏞️
+ 
 
-- *Fun fact:* I dont know a lot about computers despite my career, I chose my career only six months ago-
-- My hobbies: I play videogames from time to time, and like watching horror movies with good plots.
-- 💬 Talk to me about anything you´re passionate about, I enjoy discovering new things
-- 🌱 I’m currently pursuing a bachelor´s degree.
+
+-  *Fun fact* I took me almost two years and many tries to complete Ocarina of Time, but It was worth it 🕹️
+- The Secret Life of Waltter Mitty 💼✈️
+ and Interestellar 🌌
+ are life changing movies for me
+- 🌱 I’m currently learning *C# and git*.
 
 ### My skills include
 
 
 
 <p align="center">
-	<img title="Hadoop" alt="Hadoop" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/hadoop.svg" width="70" height="40" />
-	<img title="Spark" alt="Spark" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/apache_spark.svg" width="80" height="40" />
-	<img title="Scala" alt="Scala" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/scala.svg" width="40" height="40" />
-	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" />
-	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" />
-	<img title="Bitbucket" alt="Bitbucket" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/bitbucket.svg" height="40" />
-	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" />
-	<img title="Bamboo" alt="Bamboo" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/bamboo.svg" width="40" height="40" />	
-	<img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" />
-	<img title="Kafka" alt="Kafka" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/kafka.svg" width="105" height="40" />
-	<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" />
+	<img title="Hadoop" alt="Hadoop" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="80" height="30" />
+	<img title="Spark" alt="Spark" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" width="80" height="30" />
+	
 </p>
 
 <!--
@@ -45,12 +36,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+    
+*Any courses or resources that might be helpful on my learning path are appreciated 🚀*
 
-### My Recent post on Medium!
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thomas_george_thomas/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thomas_george_thomas/0" alt="Recent Article on medium"></img></a>   
-    
-    
-*If you find my work good, consider giving it a :star: or fork-ing to show some :heart:. It helps me stay on track and be motivated.*
 <hr>
 <p align="center">
    <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
