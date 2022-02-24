@@ -10,21 +10,6 @@ I’m a software engineer student 👩‍💻 only a freshman so I’m trying to
  and Interestellar 🌌
  are life changing movies for me
 - 🌱 I’m currently learning *C# and git*.
-=======
-<<<<<<< HEAD
-### Hi there 👋 I'm Ruth Sánchez,
-=======
-### Hi there 👋 I'm Ruth Martínez,
->>>>>>> fe30fa3 (Added name)
-
-### About me
-I´m a software engineer student. I am passionate about the universe 🌠 and I love traveling around Mexico little towns.
-
-- *Fun fact:* I dont know a lot about computers despite my career, I chose my career only six months ago-
-- My hobbies: I play videogames from time to time, and like watching horror movies with good plots.
-- 💬 Talk to me about anything you´re passionate about, I enjoy discovering new things
-- 🌱 I’m currently pursuing a bachelor´s degree.
->>>>>>> main
 
 ### My skills include
 
