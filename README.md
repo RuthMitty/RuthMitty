@@ -5,7 +5,7 @@ I’m a software engineer student 👩‍💻 only a freshman so I’m trying to
  
 
 
--  *Fun fact* I took me almost two years and many tries to complete Ocarina of Time, but It was worth it 🕹️
+-  *Fun fact* It took me almost two years and many tries to complete Ocarina of Time, but It was worth it 🕹️
 - The Secret Life of Waltter Mitty 💼✈️
  and Interestellar 🌌
  are life changing movies for me
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 *Any courses or resources that might be helpful on my learning path are appreciated 🚀*
 
 <hr>
-<p align="center"> <p style=" :blue; ">
+<p align="center">
    <i>“I understand now that boundaries between noise and sound are conventions. All boundaries are conventions, waiting to be transcended. One may transcend any convention if only one can first conceive of doing so.” </i>
    <br>
    <i>― David Mitchell, Cloud Atlas</i>
