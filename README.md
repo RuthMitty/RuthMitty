@@ -3,7 +3,9 @@
 
 I’m a software engineer student 👩‍💻 only a freshman so I’m trying to learn everything I’m able to 💻. I love to experience new things so I`m always up for traveling 🏞️
  
-
+<br/>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruthmitty&label=Profile%20views&color=0e75b6&style=flat" alt="ruthmitty" height = "25" width = "150"/>
+ <br/>
 
 -  *Fun fact* It took me almost two years and many tries to complete Ocarina of Time, but It was worth it 🕹️
 - The Secret Life of Waltter Mitty 💼✈️
