@@ -39,7 +39,13 @@ Here are some ideas to get you started:
 -->
 
     
-*Any courses or resources that might be helpful on my learning path are appreciated 🚀*
+                  *Any courses or resources that might be helpful on my learning path are appreciated 🚀*
+
+ ### My GitHub Stats 🌠
+<hr>
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=RuthMitty&show_icons=true&theme=tokyonight"  height="200"/>
+</p>
 
 <hr>
 <p align="center">
