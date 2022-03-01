@@ -47,6 +47,12 @@ Here are some ideas to get you started:
    <img src="https://github-readme-stats.vercel.app/api?username=RuthMitty&show_icons=true&theme=tokyonight"  height="200"/>
 </p>
 
+### Most used languajes 📊✨
+<hr>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuthMitty&langs_count=10&layout=compact&theme=tokyonight"  height="200"/>
+</p>
+
 <hr>
 <p align="center">
    <i>“I understand now that boundaries between noise and sound are conventions. All boundaries are conventions, waiting to be transcended. One may transcend any convention if only one can first conceive of doing so.” </i>
