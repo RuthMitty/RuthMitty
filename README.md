@@ -44,13 +44,13 @@ Here are some ideas to get you started:
  ### My GitHub Stats 🌠
 <hr>
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=RuthMitty&show_icons=true&theme=tokyonight"  height="200"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=RuthMitty&show_icons=true&theme=jolly"  height="200"/>
 </p>
 
 ### Most used languajes 📊✨
 <hr>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuthMitty&langs_count=10&layout=compact&theme=tokyonight"  height="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuthMitty&langs_count=10&layout=compact&theme=jolly"  height="200"/>
 </p>
 
 <hr>
