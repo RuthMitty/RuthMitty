@@ -8,8 +8,8 @@ I’m a software engineer student 👩‍💻 only a freshman so I’m trying to
  <br/>
 
 -  *Fun fact* It took me almost two years and many tries to complete Ocarina of Time, but It was worth it 🕹️
-- The Secret Life of Waltter Mitty 💼✈️
- and Interestellar 🌌
+- The Secret Life of Walter Mitty 💼✈️
+ and Interstellar 🌌
  are life changing movies for me
 - 🌱 I’m currently learning *C# and git*.
 
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
    <img src="https://github-readme-stats.vercel.app/api?username=RuthMitty&show_icons=true&theme=jolly"  height="200"/>
 </p>
 
-### Most used languajes 📊✨
+### Most used languages 📊✨
 <hr>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuthMitty&langs_count=10&layout=compact&theme=jolly"  height="200"/>
